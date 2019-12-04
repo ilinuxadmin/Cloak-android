@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/.deps/gopath/src/github.com/boltdb/bolt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/.deps/gopath/src/github.com/cbeuw/Cloak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/.deps/gopath/src/github.com/juju/ratelimit" vcs="Git" />
   </component>
 </project>
